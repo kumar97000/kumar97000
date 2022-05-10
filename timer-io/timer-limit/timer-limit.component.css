@@ -1,0 +1,14 @@
+.limit{
+    border: 3px solid black;
+    width: 70vh;
+    height: auto;
+    padding: 2vh;
+    height: auto;
+}
+
+.timer{
+    display: flex;
+    justify-content: space-between;
+    width: 20px;
+    margin-left: 100px;
+}
