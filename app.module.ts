@@ -8,7 +8,7 @@ import { CaseStudyComponent } from './case-study/case-study.component';
 import { ECommerceComponent } from './e-commerce/e-commerce.component';
 import { ImageUiComponent } from './image-ui/image-ui.component';
 import { RouteSixComponent } from './route-six/route-six.component';
-import { StudentsMarksComponent } from './student-marks/student-marks.component';
+import {  StudentMarksComponent } from './student-marks/student-marks.component';
 import { TimerIoComponent } from './timer-io/timer-io.component';
 import { HttpClientModule } from '@angular/common/http';
 import { CountDownComponent } from './timer-io/count-down/count-down.component';
@@ -23,7 +23,7 @@ import { TimerLimitComponent } from './timer-io/timer-limit/timer-limit.componen
     ECommerceComponent,
     ImageUiComponent,
     RouteSixComponent,
-    StudentsMarksComponent,
+    StudentMarksComponent,
     TimerIoComponent,
     CountDownComponent,
     CountOfClicksComponent,

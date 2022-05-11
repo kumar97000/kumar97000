@@ -4,10 +4,10 @@ import { StudentMarksService } from '../services/student-marks.service';
 
 @Component({
   selector: 'app-students-marks',
-  templateUrl: './students-marks.component.html',
+  templateUrl: './student-marks.component.html',
   styleUrls: ['./students-marks.component.css']
 })
-export class StudentsMarksComponent implements OnInit {
+export class StudentMarksComponent implements OnInit {
 
   public students: any = [];
   public studentsWithOutSort: any = [];
